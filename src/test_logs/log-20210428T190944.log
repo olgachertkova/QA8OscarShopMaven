@@ -1,0 +1,25 @@
+19:09:48.445 [main] INFO  tests.TestBase - Start test: loginTestPositive
+19:09:48.448 [main] INFO  tests.TestBase -  --> With data: [olga4@yandex.ru, qwe123123]
+19:09:53.323 [main] INFO  tests.TestBase - Test result: PASSED
+19:09:53.323 [main] INFO  tests.TestBase - Stop test: loginTestPositive
+19:09:53.323 [main] INFO  tests.TestBase - ======================================================
+19:09:55.505 [main] INFO  tests.TestBase - Start test: addToBasketTest
+19:10:00.599 [main] INFO  tests.TestBase - Test result: PASSED
+19:10:00.600 [main] INFO  tests.TestBase - Stop test: addToBasketTest
+19:10:00.600 [main] INFO  tests.TestBase - ======================================================
+19:10:04.138 [main] INFO  tests.TestBase - Start test: userCanAddProductToBasketTest
+19:10:07.589 [main] INFO  tests.TestBase - Test result: PASSED
+19:10:07.589 [main] INFO  tests.TestBase - Stop test: userCanAddProductToBasketTest
+19:10:07.589 [main] INFO  tests.TestBase - ======================================================
+19:10:09.862 [main] INFO  tests.TestBase - Start test: changeLanguageTest
+19:10:10.908 [main] INFO  tests.TestBase - Test result: PASSED
+19:10:10.909 [main] INFO  tests.TestBase - Stop test: changeLanguageTest
+19:10:10.909 [main] INFO  tests.TestBase - ======================================================
+19:10:13.009 [main] INFO  tests.TestBase - Start test: loginLinkIsDisplayedTest
+19:10:13.155 [main] INFO  tests.TestBase - Test result: PASSED
+19:10:13.156 [main] INFO  tests.TestBase - Stop test: loginLinkIsDisplayedTest
+19:10:13.156 [main] INFO  tests.TestBase - ======================================================
+19:10:15.389 [main] INFO  tests.TestBase - Start test: userCanChooseProduct
+19:10:17.302 [main] INFO  tests.TestBase - Test result: PASSED
+19:10:17.302 [main] INFO  tests.TestBase - Stop test: userCanChooseProduct
+19:10:17.302 [main] INFO  tests.TestBase - ======================================================

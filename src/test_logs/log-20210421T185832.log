@@ -1,0 +1,50 @@
+18:58:35.856 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:58:35.858 [main] INFO  tests.TestBase -  --> With data: [demo1508935140@gmail.com, pass-1440773188]
+18:58:41.706 [main] INFO  tests.TestBase - Test result: PASSED
+18:58:41.707 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:58:41.707 [main] INFO  tests.TestBase - ======================================================
+18:58:43.715 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:58:43.716 [main] INFO  tests.TestBase -  --> With data: [demo-354766457@gmail.com, pass-939143207]
+18:58:49.753 [main] INFO  tests.TestBase - Test result: PASSED
+18:58:49.754 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:58:49.754 [main] INFO  tests.TestBase - ======================================================
+18:58:51.705 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:58:51.705 [main] INFO  tests.TestBase -  --> With data: [demo-912232405@gmail.com, pass-515289948]
+18:58:57.507 [main] INFO  tests.TestBase - Test result: PASSED
+18:58:57.507 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:58:57.507 [main] INFO  tests.TestBase - ======================================================
+18:58:59.571 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:58:59.571 [main] INFO  tests.TestBase -  --> With data: [demo-1151353878@gmail.com, pass337596524]
+18:59:06.051 [main] INFO  tests.TestBase - Test result: PASSED
+18:59:06.052 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:59:06.052 [main] INFO  tests.TestBase - ======================================================
+18:59:08.110 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:59:08.110 [main] INFO  tests.TestBase -  --> With data: [demo563344027@gmail.com, pass255289840]
+18:59:15.429 [main] INFO  tests.TestBase - Test result: PASSED
+18:59:15.429 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:59:15.429 [main] INFO  tests.TestBase - ======================================================
+18:59:17.585 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:59:17.585 [main] INFO  tests.TestBase -  --> With data: [demo-1570787519@gmail.com, pass-1334397448]
+18:59:24.071 [main] INFO  tests.TestBase - Test result: PASSED
+18:59:24.071 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:59:24.072 [main] INFO  tests.TestBase - ======================================================
+18:59:26.085 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:59:26.085 [main] INFO  tests.TestBase -  --> With data: [demo892988675@gmail.com, pass997364024]
+18:59:32.549 [main] INFO  tests.TestBase - Test result: PASSED
+18:59:32.549 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:59:32.549 [main] INFO  tests.TestBase - ======================================================
+18:59:34.498 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:59:34.499 [main] INFO  tests.TestBase -  --> With data: [demo-2009386472@gmail.com, pass904186313]
+18:59:40.653 [main] INFO  tests.TestBase - Test result: PASSED
+18:59:40.653 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:59:40.653 [main] INFO  tests.TestBase - ======================================================
+18:59:42.707 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:59:42.707 [main] INFO  tests.TestBase -  --> With data: [demo931648548@gmail.com, pass-1140805110]
+18:59:48.862 [main] INFO  tests.TestBase - Test result: PASSED
+18:59:48.862 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:59:48.862 [main] INFO  tests.TestBase - ======================================================
+18:59:50.909 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderRandomData
+18:59:50.909 [main] INFO  tests.TestBase -  --> With data: [demo514106221@gmail.com, pass-1637176832]
+18:59:57.061 [main] INFO  tests.TestBase - Test result: PASSED
+18:59:57.061 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderRandomData
+18:59:57.061 [main] INFO  tests.TestBase - ======================================================

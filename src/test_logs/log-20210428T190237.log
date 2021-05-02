@@ -1,0 +1,35 @@
+19:02:42.491 [main] INFO  tests.TestBase - Start test: loginTestPositive
+19:02:42.496 [main] INFO  tests.TestBase -  --> With data: [olga4@yandex.ru, qwe123123]
+19:02:46.976 [main] INFO  tests.TestBase - Test result: PASSED
+19:02:46.976 [main] INFO  tests.TestBase - Stop test: loginTestPositive
+19:02:46.977 [main] INFO  tests.TestBase - ======================================================
+19:02:49.359 [main] INFO  tests.TestBase - Start test: addToBasketTest
+19:02:53.123 [main] INFO  tests.TestBase - Test result: PASSED
+19:02:53.123 [main] INFO  tests.TestBase - Stop test: addToBasketTest
+19:02:53.123 [main] INFO  tests.TestBase - ======================================================
+19:02:55.262 [main] INFO  tests.TestBase - Start test: productPriceInBasketValidation
+19:02:58.432 [main] INFO  tests.TestBase - Test result: PASSED
+19:02:58.432 [main] INFO  tests.TestBase - Stop test: productPriceInBasketValidation
+19:02:58.432 [main] INFO  tests.TestBase - ======================================================
+19:03:00.487 [main] INFO  tests.TestBase - Start test: userCanAddProductToBasketTest
+19:03:03.651 [main] INFO  tests.TestBase - Test result: PASSED
+19:03:03.652 [main] INFO  tests.TestBase - Stop test: userCanAddProductToBasketTest
+19:03:03.652 [main] INFO  tests.TestBase - ======================================================
+19:03:05.712 [main] INFO  tests.TestBase - Start test: changeLangWithOutClickOnGoButton
+19:03:05.956 [main] INFO  tests.TestBase - Test result: PASSED
+19:03:05.956 [main] INFO  tests.TestBase - Stop test: changeLangWithOutClickOnGoButton
+19:03:05.956 [main] INFO  tests.TestBase - ======================================================
+19:03:07.947 [main] INFO  tests.TestBase - Start test: changeLanguageTest
+19:03:09.010 [main] INFO  tests.TestBase - Test result: PASSED
+19:03:09.010 [main] INFO  tests.TestBase - Stop test: changeLanguageTest
+19:03:09.010 [main] INFO  tests.TestBase - ======================================================
+19:03:11.169 [main] INFO  tests.TestBase - Start test: homePageTitleTest
+19:03:11.251 [main] INFO  tests.TestBase - Test result: PASSED
+19:03:11.251 [main] INFO  tests.TestBase - Stop test: homePageTitleTest
+19:03:11.251 [main] INFO  tests.TestBase - ======================================================
+19:03:13.358 [main] INFO  tests.TestBase - Start test: loginLinkIsDisplayedTest
+19:03:13.475 [main] INFO  tests.TestBase - Test result: PASSED
+19:03:13.476 [main] INFO  tests.TestBase - Stop test: loginLinkIsDisplayedTest
+19:03:13.476 [main] INFO  tests.TestBase - ======================================================
+19:03:15.694 [main] INFO  tests.TestBase - Start test: userCanChooseProduct
+19:03:17.387 [main] ERROR tests.TestBase - Test result: FAILED

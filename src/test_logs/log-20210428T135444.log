@@ -1,0 +1,43 @@
+13:54:47.131 [main] INFO  tests.TestBase - Start test: loginTestPositive
+13:54:47.133 [main] INFO  tests.TestBase -  --> With data: [olga4@yandex.ru, qwe123123]
+13:54:51.063 [main] INFO  tests.TestBase - Test result: PASSED
+13:54:51.063 [main] INFO  tests.TestBase - Stop test: loginTestPositive
+13:54:51.063 [main] INFO  tests.TestBase - ======================================================
+13:54:53.113 [main] INFO  tests.TestBase - Start test: registerTestNegativeSameEmail
+13:54:59.362 [main] INFO  tests.TestBase - Test result: PASSED
+13:54:59.362 [main] INFO  tests.TestBase - Stop test: registerTestNegativeSameEmail
+13:54:59.362 [main] INFO  tests.TestBase - ======================================================
+13:55:01.475 [main] INFO  tests.TestBase - Start test: registerTestPositive
+13:55:01.552 [main] ERROR tests.TestBase - Test result: FAILED
+13:55:03.634 [main] INFO  tests.TestBase - Start test: addToBasketTest
+13:55:07.481 [main] INFO  tests.TestBase - Test result: PASSED
+13:55:07.482 [main] INFO  tests.TestBase - Stop test: addToBasketTest
+13:55:07.482 [main] INFO  tests.TestBase - ======================================================
+13:55:09.464 [main] INFO  tests.TestBase - Start test: productPriceInBasketValidation
+13:55:12.668 [main] INFO  tests.TestBase - Test result: PASSED
+13:55:12.668 [main] INFO  tests.TestBase - Stop test: productPriceInBasketValidation
+13:55:12.668 [main] INFO  tests.TestBase - ======================================================
+13:55:14.634 [main] INFO  tests.TestBase - Start test: userCanAddProductToBasketTest
+13:55:17.722 [main] INFO  tests.TestBase - Test result: PASSED
+13:55:17.722 [main] INFO  tests.TestBase - Stop test: userCanAddProductToBasketTest
+13:55:17.722 [main] INFO  tests.TestBase - ======================================================
+13:55:19.672 [main] INFO  tests.TestBase - Start test: changeLangWithOutClickOnGoButton
+13:55:19.919 [main] INFO  tests.TestBase - Test result: PASSED
+13:55:19.920 [main] INFO  tests.TestBase - Stop test: changeLangWithOutClickOnGoButton
+13:55:19.920 [main] INFO  tests.TestBase - ======================================================
+13:55:22.063 [main] INFO  tests.TestBase - Start test: changeLanguageTest
+13:55:24.207 [main] INFO  tests.TestBase - Test result: PASSED
+13:55:24.207 [main] INFO  tests.TestBase - Stop test: changeLanguageTest
+13:55:24.207 [main] INFO  tests.TestBase - ======================================================
+13:55:26.230 [main] INFO  tests.TestBase - Start test: homePageTitleTest
+13:55:26.308 [main] INFO  tests.TestBase - Test result: PASSED
+13:55:26.308 [main] INFO  tests.TestBase - Stop test: homePageTitleTest
+13:55:26.308 [main] INFO  tests.TestBase - ======================================================
+13:55:28.263 [main] INFO  tests.TestBase - Start test: loginLinkIsDisplayedTest
+13:55:28.370 [main] INFO  tests.TestBase - Test result: PASSED
+13:55:28.370 [main] INFO  tests.TestBase - Stop test: loginLinkIsDisplayedTest
+13:55:28.370 [main] INFO  tests.TestBase - ======================================================
+13:55:30.332 [main] INFO  tests.TestBase - Start test: userCanChooseProduct
+13:55:32.208 [main] INFO  tests.TestBase - Test result: PASSED
+13:55:32.208 [main] INFO  tests.TestBase - Stop test: userCanChooseProduct
+13:55:32.208 [main] INFO  tests.TestBase - ======================================================

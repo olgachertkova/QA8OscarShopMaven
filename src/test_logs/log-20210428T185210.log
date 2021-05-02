@@ -1,0 +1,9 @@
+18:52:15.944 [main] INFO  tests.TestBase - Start test: loginTestPositive
+18:52:15.946 [main] INFO  tests.TestBase -  --> With data: [olga4@yandex.ru, qwe123123]
+18:52:19.972 [main] INFO  tests.TestBase - Test result: PASSED
+18:52:19.973 [main] INFO  tests.TestBase - Stop test: loginTestPositive
+18:52:19.973 [main] INFO  tests.TestBase - ======================================================
+18:52:22.144 [main] INFO  tests.TestBase - Start test: registerTestPositive
+18:52:22.223 [main] ERROR tests.TestBase - Test result: FAILED
+18:52:24.329 [main] INFO  tests.TestBase - Start test: registerTestNegativeSameEmail
+18:52:24.405 [main] ERROR tests.TestBase - Test result: FAILED

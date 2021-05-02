@@ -1,0 +1,4 @@
+19:17:21.645 [main] INFO  tests.TestBase - Start test: addToBasketTest
+19:17:25.259 [main] INFO  tests.TestBase - Test result: PASSED
+19:17:25.259 [main] INFO  tests.TestBase - Stop test: addToBasketTest
+19:17:25.259 [main] INFO  tests.TestBase - ======================================================

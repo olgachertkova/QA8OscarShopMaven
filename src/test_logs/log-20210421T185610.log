@@ -1,0 +1,15 @@
+18:56:13.641 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderCSVFile
+18:56:13.643 [main] INFO  tests.TestBase -  --> With data: [qqwer@ya.ru, qwwer1244]
+18:56:24.976 [main] ERROR tests.TestBase - Test result: FAILED
+18:56:24.977 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderCSVFile
+18:56:24.977 [main] INFO  tests.TestBase - ======================================================
+18:56:26.894 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderCSVFile
+18:56:26.894 [main] INFO  tests.TestBase -  --> With data: [qqwwee123@mail.com, qwww!1245]
+18:56:27.004 [main] ERROR tests.TestBase - Test result: FAILED
+18:56:27.004 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderCSVFile
+18:56:27.005 [main] INFO  tests.TestBase - ======================================================
+18:56:29.139 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderCSVFile
+18:56:29.139 [main] INFO  tests.TestBase -  --> With data: [assdffQQW@gmail.com, Dfg124443]
+18:56:30.238 [main] ERROR tests.TestBase - Test result: FAILED
+18:56:30.238 [main] INFO  tests.TestBase - Stop test: registerTestPositiveUsingDataProviderCSVFile
+18:56:30.238 [main] INFO  tests.TestBase - ======================================================

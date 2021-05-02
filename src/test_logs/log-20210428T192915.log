@@ -1,0 +1,23 @@
+19:29:19.232 [TestNG-test=Test1-3] INFO  tests.TestBase - Start test: changeLanguageTest
+19:29:19.335 [TestNG-test=Test1-1] INFO  tests.TestBase - Start test: addToBasketTest
+19:29:19.755 [TestNG-test=Test1-2] INFO  tests.TestBase - Start test: changeLangWithOutClickOnGoButton
+19:29:20.328 [TestNG-test=Test1-4] INFO  tests.TestBase - Start test: homePageTitleTest
+19:29:20.456 [TestNG-test=Test1-4] INFO  tests.TestBase - Test result: PASSED
+19:29:20.456 [TestNG-test=Test1-4] INFO  tests.TestBase - Stop test: homePageTitleTest
+19:29:20.456 [TestNG-test=Test1-4] INFO  tests.TestBase - ======================================================
+19:29:20.474 [TestNG-test=Test1-3] ERROR tests.TestBase - Test result: FAILED
+19:29:20.474 [TestNG-test=Test1-2] ERROR tests.TestBase - Test result: FAILED
+19:29:23.981 [TestNG-test=Test1-4] INFO  tests.TestBase - Start test: loginLinkIsDisplayedTest
+19:29:24.097 [TestNG-test=Test1-4] ERROR tests.TestBase - Test result: FAILED
+19:29:24.148 [TestNG-test=Test1-1] INFO  tests.TestBase - Test result: PASSED
+19:29:24.149 [TestNG-test=Test1-1] INFO  tests.TestBase - Stop test: addToBasketTest
+19:29:24.149 [TestNG-test=Test1-1] INFO  tests.TestBase - ======================================================
+19:29:24.241 [TestNG-test=Test1-3] INFO  tests.TestBase - Start test: loginTestPositive
+19:29:24.241 [TestNG-test=Test1-3] INFO  tests.TestBase -  --> With data: [olga4@yandex.ru, qwe123123]
+19:29:24.415 [TestNG-test=Test1-2] INFO  tests.TestBase - Start test: productPriceInBasketValidation
+19:29:27.508 [TestNG-test=Test1-4] INFO  tests.TestBase - Start test: userCanAddProductToBasketTest
+19:29:29.285 [TestNG-test=Test1-1] INFO  tests.TestBase - Start test: userCanChooseProduct
+19:29:29.362 [TestNG-test=Test1-1] ERROR tests.TestBase - Test result: FAILED
+19:29:29.986 [TestNG-test=Test1-2] ERROR tests.TestBase - Test result: FAILED
+19:29:29.992 [TestNG-test=Test1-4] ERROR tests.TestBase - Test result: FAILED
+19:30:24.081 [TestNG-test=Test1-3] ERROR tests.TestBase - Test result: FAILED

@@ -1,0 +1,37 @@
+19:31:03.817 [TestNG-test=Test1-2] INFO  tests.TestBase - Start test: changeLangWithOutClickOnGoButton
+19:31:04.006 [TestNG-test=Test1-1] INFO  tests.TestBase - Start test: addToBasketTest
+19:31:04.198 [TestNG-test=Test1-2] INFO  tests.TestBase - Test result: PASSED
+19:31:04.198 [TestNG-test=Test1-2] INFO  tests.TestBase - Stop test: changeLangWithOutClickOnGoButton
+19:31:04.198 [TestNG-test=Test1-2] INFO  tests.TestBase - ======================================================
+19:31:06.232 [TestNG-test=Test1-2] INFO  tests.TestBase - Start test: changeLanguageTest
+19:31:07.391 [TestNG-test=Test1-2] INFO  tests.TestBase - Test result: PASSED
+19:31:07.391 [TestNG-test=Test1-2] INFO  tests.TestBase - Stop test: changeLanguageTest
+19:31:07.391 [TestNG-test=Test1-2] INFO  tests.TestBase - ======================================================
+19:31:07.787 [TestNG-test=Test1-1] INFO  tests.TestBase - Test result: PASSED
+19:31:07.788 [TestNG-test=Test1-1] INFO  tests.TestBase - Stop test: addToBasketTest
+19:31:07.788 [TestNG-test=Test1-1] INFO  tests.TestBase - ======================================================
+19:31:09.807 [TestNG-test=Test1-2] INFO  tests.TestBase - Start test: homePageTitleTest
+19:31:09.887 [TestNG-test=Test1-2] INFO  tests.TestBase - Test result: PASSED
+19:31:09.887 [TestNG-test=Test1-2] INFO  tests.TestBase - Stop test: homePageTitleTest
+19:31:09.887 [TestNG-test=Test1-2] INFO  tests.TestBase - ======================================================
+19:31:10.148 [TestNG-test=Test1-1] INFO  tests.TestBase - Start test: loginTestPositive
+19:31:10.148 [TestNG-test=Test1-1] INFO  tests.TestBase -  --> With data: [olga4@yandex.ru, qwe123123]
+19:31:11.941 [TestNG-test=Test1-2] INFO  tests.TestBase - Start test: loginLinkIsDisplayedTest
+19:31:12.081 [TestNG-test=Test1-2] INFO  tests.TestBase - Test result: PASSED
+19:31:12.082 [TestNG-test=Test1-2] INFO  tests.TestBase - Stop test: loginLinkIsDisplayedTest
+19:31:12.082 [TestNG-test=Test1-2] INFO  tests.TestBase - ======================================================
+19:31:14.338 [TestNG-test=Test1-1] INFO  tests.TestBase - Test result: PASSED
+19:31:14.338 [TestNG-test=Test1-1] INFO  tests.TestBase - Stop test: loginTestPositive
+19:31:14.338 [TestNG-test=Test1-1] INFO  tests.TestBase - ======================================================
+19:31:14.376 [TestNG-test=Test1-2] INFO  tests.TestBase - Start test: userCanChooseProduct
+19:31:16.431 [TestNG-test=Test1-2] INFO  tests.TestBase - Test result: PASSED
+19:31:16.431 [TestNG-test=Test1-2] INFO  tests.TestBase - Stop test: userCanChooseProduct
+19:31:16.431 [TestNG-test=Test1-2] INFO  tests.TestBase - ======================================================
+19:31:16.533 [TestNG-test=Test1-1] INFO  tests.TestBase - Start test: productPriceInBasketValidation
+19:31:19.912 [TestNG-test=Test1-1] INFO  tests.TestBase - Test result: PASSED
+19:31:19.913 [TestNG-test=Test1-1] INFO  tests.TestBase - Stop test: productPriceInBasketValidation
+19:31:19.915 [TestNG-test=Test1-1] INFO  tests.TestBase - ======================================================
+19:31:22.202 [TestNG-test=Test1-1] INFO  tests.TestBase - Start test: userCanAddProductToBasketTest
+19:31:25.436 [TestNG-test=Test1-1] INFO  tests.TestBase - Test result: PASSED
+19:31:25.436 [TestNG-test=Test1-1] INFO  tests.TestBase - Stop test: userCanAddProductToBasketTest
+19:31:25.436 [TestNG-test=Test1-1] INFO  tests.TestBase - ======================================================

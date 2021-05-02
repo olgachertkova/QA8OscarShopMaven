@@ -1,0 +1,3 @@
+18:43:05.049 [main] INFO  tests.TestBase - Start test: registerTestPositiveUsingDataProviderDataFile
+18:43:05.054 [main] INFO  tests.TestBase -  --> With data: [qewrqere@ya.ru, rewrerw111]
+18:43:28.085 [main] ERROR tests.TestBase - Test result: FAILED
